@@ -7,7 +7,6 @@ Image Store is a repository designed for managing and storing images efficiently
 - Store and manage image files
 - Organized file structure
 - Easy access and retrieval of images
-- Open-source and customizable
 
 ## Usage
 1. Add image files to the designated directory.
